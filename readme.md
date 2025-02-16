@@ -12,7 +12,7 @@ This project includes evaluation and LoRA fine-tuning of [OPT](https://huggingfa
 # Clone and install the dependencies
 ```
 git clone https://github.com/SqueezeAILab/SqueezeLLM
-cd TRUSTWORTHYAI_P1
+cd TrustworthyML_Proj1-main
 pip install -r requirements.txt
 ```
 # How to use
